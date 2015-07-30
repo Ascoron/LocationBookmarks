@@ -1,0 +1,15 @@
+//
+//  LocBookmarks.pch
+//  LocBookmarks
+//
+//  Created by Paul Kovalenko on 29.07.15.
+//  Copyright (c) 2015 Paul K. All rights reserved.
+//
+
+#import <MBProgressHUD/MBProgressHUD.h>
+#import "UIView+CBFrameHelpers.h"
+#import "UIAlertView+Blocks.h"
+
+#import "Bookmark.h"
+
+#import "Macroses.h"
